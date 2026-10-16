@@ -1,0 +1,10 @@
+# Versions used for the results in the report (Python 3.9, macOS, CPU).
+# Newer versions (for example on Google Colab) also run the notebook.
+numpy>=2.0.2
+pandas>=2.3.3
+scikit-learn>=1.6.1
+tensorflow>=2.20.0
+tensorboard>=2.20.0
+matplotlib>=3.9.4
+joblib>=1.5.3
+jupyter

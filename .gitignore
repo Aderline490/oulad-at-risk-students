@@ -1,0 +1,8 @@
+# raw dataset lives in Google Drive, never in git
+data/
+# saved model weights live in Google Drive
+models/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
