@@ -7,7 +7,7 @@ Aderline Gashugi, African Leadership University, Machine Learning summative proj
 | | Link |
 |---|---|
 | Report | _add link_ |
-| Google Drive (raw dataset + saved models) | _add link_ |
+| Google Drive (raw dataset + saved models) | _[Link](https://drive.google.com/drive/folders/1BdUGR3Fn_NW-Zt01Bxzt_0B8QNr_Vt0F?usp=sharing)_ |
 | Video presentation | _add link_ |
 
 ## The problem
@@ -94,4 +94,4 @@ The Scalars tab shows per-epoch loss and AUC for every Keras run, and the HParam
 
 ## Acknowledgements
 
-The dataset is by the Open University (Kuzilek, J., Hlosta, M. and Zdrahal, Z., "Open University Learning Analytics dataset," *Scientific Data*, vol. 4, 170171, 2017). No pretrained models were used. I used AI assistance (Claude) for support with code and writing, as the course AI policy allows.
+The dataset is by the Open University (Kuzilek, J., Hlosta, M. and Zdrahal, Z., "Open University Learning Analytics dataset," *Scientific Data*, vol. 4, 170171, 2017). No pretrained models were used.
