@@ -6,9 +6,9 @@ Aderline Gashugi, African Leadership University, Machine Learning summative proj
 
 | | Link |
 |---|---|
-| Report | _add link_ |
+| Report | _[Link](https://docs.google.com/document/d/177LpPzPnVhUH0gg5BLr1-XP2ikukq7Y6/edit?usp=sharing&ouid=104841758467594387753&rtpof=true&sd=true)_ |
 | Google Drive (raw dataset + saved models) | _[Link](https://drive.google.com/drive/folders/1BdUGR3Fn_NW-Zt01Bxzt_0B8QNr_Vt0F?usp=sharing)_ |
-| Video presentation | _add link_ |
+| Video presentation | _[Link](https://youtu.be/4xlPRikRx8Q)_ |
 
 ## The problem
 
